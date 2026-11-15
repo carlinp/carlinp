@@ -1,53 +1,75 @@
-# Enterprise Integration â€¢ Solution Architecture â€¢ Modern Engineering
+# Enterprise Integration | Solution Architecture | Modern Engineering
 
 **From business application development to cloud-native integration and AI-assisted engineering.**
 
-I began my career building business applications with **COBOL, CICS, RPG, and DataFlex**. That foundation led to **Oracle SQL/PLSQL and Workflow**, **IBM Cast Iron**, **IBM App Connect Enterprise**, and **IBM API Connect on Red Hat OpenShift**â€”with hands-on work spanning application integration, platform migration, security, and production troubleshooting.
+## 1. Who I Am
 
-Today, **CNOTE Labs** is my independent engineering lab for validating enterprise integration patterns, strengthening modern implementation skills, and exploring how AI changes the way solutions are designed and delivered.
+I began my career developing business applications with **COBOL, CICS, RPG, and DataFlex**. My work evolved through **Oracle SQL and PL/SQL**, **Oracle Workflow**, **IBM Cast Iron**, **IBM App Connect Enterprise**, and **IBM API Connect running on Red Hat OpenShift**.
 
-## What I do
+That progression also included enterprise platform migrations between OpenShift clusters, containerized integration services, API security, production troubleshooting, and Java services built with **Open Liberty**.
 
-- **Enterprise integration & solution architecture:** connect business processes, applications, APIs, messaging, and data across complex environments.
-- **Cloud-native modernization:** work with Red Hat OpenShift, containerized integration runtimes, API management, and Java services including Open Liberty.
-- **Hands-on engineering:** SQL/PLSQL, Java, REST services, integration troubleshooting, security, and operational validation.
-- **AI-assisted engineering:** use GPT, Claude, and Bob in architecture, specification, implementation, and review workflows, with human validation and final acceptance.
+Across those technologies, my focus has remained consistent: **helping complex enterprise systems work together reliably**.
 
-## How my work evolved
+## 2. What I Do
 
-`COBOL / CICS / RPG / DataFlex` â†’ `Oracle SQL / PL/SQL / Workflow` â†’ `IBM Cast Iron` â†’ `App Connect Enterprise` â†’ `API Connect + OpenShift` â†’ `Platform migrations + Open Liberty` â†’ `AI-assisted / agent-enabled integration`
+- **Enterprise integration and solution architecture:** Connect business processes, applications, APIs, messaging, and data across complex environments.
+- **API management and integration platforms:** Work with IBM App Connect Enterprise, IBM API Connect, Salesforce connectivity, and enterprise integration patterns.
+- **Cloud-native modernization:** Work with Red Hat OpenShift, containerized runtimes, platform migrations, and Java services including Open Liberty.
+- **Hands-on engineering:** Apply SQL, PL/SQL, Java, REST services, security, troubleshooting, and operational validation.
+- **AI-assisted engineering:** Collaborate with GPT, Claude, and Bob on architecture, specifications, implementation, and review, while retaining human responsibility for validation and acceptance.
 
-The technologies have changed; the focus has remained consistent: **make enterprise systems work together reliably.**
+## 3. How My Work Evolved
 
-## Inside CNOTE Labs
+**Application development** (COBOL, CICS, RPG, DataFlex)
 
-### Enterprise integration handshake â€” Oracle EBS Vision â†” Salesforce
-A practical integration scenario involving customer and site data, rates, assets, contracts, and invoices. The goal is to demonstrate API contracts, transformation, transaction handling, traceability, and cross-system validation.
+-> **Database and workflow engineering** (Oracle SQL, PL/SQL, Workflow)
 
-**Status:** In progress. Architecture and validated implementation evidence will be linked here as published.
+-> **Application integration** (IBM Cast Iron)
 
-### AI-enabled integration â€” Decisioning, workflow, and accounting
-An exploratory scenario using **Db2** for decision modeling, **Salesforce** for workflow, and **Oracle EBS** for accounting, with agent-based orchestration under evaluation.
+-> **Enterprise integration** (IBM App Connect Enterprise)
 
-**Status:** Exploration/design. Not presented as a production trading system.
+-> **API management and container platforms** (IBM API Connect, Red Hat OpenShift)
 
-### Platform engineering â€” OpenShift Local homelab
-A NUC-based lab for exercising cloud-native deployment, networking, services, security, and integration patterns. The lab supports repeatable demonstrations and documented troubleshooting.
+-> **Platform modernization** (OpenShift migrations, Open Liberty)
 
-**Status:** Active lab. Public architecture and evidence will be linked when reviewed.
+-> **AI-assisted and agent-enabled integration** (CNOTE Labs)
 
-## Engineering approach
+The technologies have changed; the objective has not: **design, connect, secure, and operate reliable enterprise solutions**.
 
-**Architecture â†’ specification â†’ implementation â†’ test â†’ evidence.**
+## 4. What Is CNOTE Labs?
 
-I value practical designs, explicit interfaces, security, recoverability, observability, and reproducible validation. AI tools accelerate the work; architectural accountability and acceptance remain human responsibilities.
+[CNOTE Labs](https://cnotelabs.com) is my independent engineering lab for validating integration architectures, demonstrating practical implementation skills, and exploring the next generation of enterprise integration.
 
-## Explore
+### Enterprise Integration: Oracle EBS Vision and Salesforce
+
+A practical scenario connecting enterprise business data and processes, including customers and sites, rates, assets, contracts, and invoices. Areas of focus include API contracts, data transformation, transaction handling, traceability, and cross-system validation.
+
+**Status:** In progress. Validated implementations and supporting architecture will be linked as they are published.
+
+### AI-Enabled Integration: Decisioning, Workflow, and Accounting
+
+An exploratory architecture using **Db2** for decision modeling, **Salesforce** for workflow, and **Oracle EBS** for accounting, with AI-agent orchestration under evaluation.
+
+**Status:** Exploration and design; not a production trading system.
+
+### Cloud-Native Engineering: OpenShift Local Homelab
+
+A NUC-based lab for testing cloud-native deployment, networking, security, services, and integration patterns. The goal is repeatable demonstrations supported by architecture diagrams and documented validation.
+
+**Status:** Active lab. Public technical evidence will be linked after review.
+
+## 5. How I Engineer Solutions
+
+**Architecture -> Specification -> Implementation -> Testing -> Evidence**
+
+My approach emphasizes clear interfaces, security, recoverability, observability, operational troubleshooting, and reproducible validation. AI tools can accelerate the process, but architectural accountability and final acceptance remain human responsibilities.
+
+## 6. Explore
 
 - **CNOTE Labs:** https://cnotelabs.com
-- **Featured repositories:** Coming soon â€” only validated projects will be featured.
-- **LinkedIn:** Add verified profile URL.
+- **GitHub projects:** https://github.com/carlinp?tab=repositories
+- **Featured demonstrations:** To be linked when validated and published.
 
 ---
 
-*Interested in enterprise integration, API architecture, platform modernization, and the practical application of AI to engineering.*
+*Enterprise integration, API architecture, platform modernization, and practical AI-assisted engineering.*
